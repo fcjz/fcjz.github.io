@@ -1,2 +1,2 @@
-# fcjz.github.io
-my blog.
+# home
+this is fcjz's home.
